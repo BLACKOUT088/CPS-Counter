@@ -1,5 +1,5 @@
 #CPS {
   border-radius: 20px;
   box-shadow: 20px 5px 3px gray;
-  transform: scale(10.0) translate(200px, 100px);
+  transform: scale(10.0) translate(200px, -100px);
 }
