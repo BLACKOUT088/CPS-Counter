@@ -12,9 +12,9 @@ body {
 }
 
 .Zeit {
-  display: block;
+  display: none;
 }
 
-.aus {
-  display: none;
+.an {
+  display: block;
 }
