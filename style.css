@@ -11,5 +11,5 @@ body {
   transform: scale(15.0); 
 }
 .time {
-  block: invisible;
+  display: none;
 }
