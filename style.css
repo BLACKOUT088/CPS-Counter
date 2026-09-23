@@ -10,6 +10,11 @@ body {
   box-shadow: 3px 3px 3px gray;
   transform: scale(15.0); 
 }
+
+.Zeit {
+  display: block;
+}
+
 .aus {
   display: none;
 }
