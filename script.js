@@ -5,6 +5,6 @@ button.addEventListener("click", function() {
   punkte++;
   button.textContent=punkte;
   setTimeout(function() {
-    time.classList.toggle("an");
+    time.classList.toggle("An");
   }, 100);
 });
