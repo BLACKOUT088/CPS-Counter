@@ -5,6 +5,7 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
+  background: gray;
 }
 
 #CPS {
@@ -32,7 +33,7 @@ body {
 
 #End {
   display: none;
-  margin-top: 20px;
+  margin-top: 23px;
   font-size: 24px;
   text-align: center;
 }
