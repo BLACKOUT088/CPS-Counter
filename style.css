@@ -13,6 +13,7 @@ body {
 
 .Zeit {
   display: none;
+  transform: scale(15.0); 
 }
 
 .An {
