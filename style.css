@@ -5,7 +5,7 @@ body {
   min-height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
-  background: gray;
+  background-color: gray;
 }
 
 #CPS {
@@ -36,5 +36,5 @@ body {
   margin-top: 23px;
   font-size: 24px;
   text-align: center;
-  background: green;
+  background-color: green;
 }
