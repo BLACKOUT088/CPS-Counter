@@ -2,20 +2,37 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
 }
-      
+
 #CPS {
+  padding: 20px 40px;
+  border: none;
   border-radius: 20px;
+  background-color: royalblue;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
   box-shadow: 3px 3px 3px gray;
-  transform: scale(15.0); 
+
+  /* Hilft bei der Bedienung auf Touch-Geräten */
+  touch-action: manipulation;
 }
 
-.Zeit {
+#CPS:hover {
+  background-color: darkblue;
+}
+
+#CPS:disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}
+
+#End {
   display: none;
-  transform: scale(15.0); 
-}
-
-.An {
-  display: inline;
+  margin-top: 20px;
+  font-size: 24px;
+  text-align: center;
 }
