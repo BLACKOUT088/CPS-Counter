@@ -17,7 +17,6 @@ button.addEventListener("click", function () {
 
       time.textContent = punkte;
       result.style.display = "block";
-      button.textContent = "Fertig";
     }, 1000);
   }
 
