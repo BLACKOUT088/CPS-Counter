@@ -31,7 +31,7 @@ body {
 
 #End {
   display: none;
-  margin-top: 23px;
+  /*margin-top: 23px;*/
   font-size: 24px;
   text-align: center;
   background-color: green;
