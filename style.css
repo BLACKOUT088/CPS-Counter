@@ -37,3 +37,11 @@ body {
   background-color: green;
   transform: translate(-150px, -75px);
 }
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
