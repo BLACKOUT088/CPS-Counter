@@ -45,3 +45,7 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+
+#End2 {
+  color: white;
+  outline: thick double white;
